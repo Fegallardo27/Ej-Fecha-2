@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1693351770 source:c:\users\fedin\desktop\laboratorio-brian\code- clase\fechaclase\fecha.cpp
+	"fecha.h"
+
+1693353996 c:\users\fedin\desktop\laboratorio-brian\code- clase\fechaclase\fecha.h
+	<iostream>
+	<string>
+
